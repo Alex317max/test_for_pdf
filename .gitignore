@@ -1,0 +1,16 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Результаты работы
+outputs/
+*.log
+temp_*.png
